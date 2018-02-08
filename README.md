@@ -1,8 +1,10 @@
 # cryoFIT_install
 
-How to install: python <user's phenix>/modules/cryoFIT/steps/0_install_cryoFIT/install_cryoFIT.py gromacs-4.5.5_cryoFIT.zip
+How to install: python <user's
+phenix path>/modules/cryoFIT/steps/0_install_cryoFIT/install_cryoFIT.py
+ <user's path>/gromacs-4.5.5_cryoFIT.zip
 
-For example, python /Users/doonam/bin/phenix-dev-2906/modules/cryoFIT/steps/0_install_cryoFIT/install_cryoFIT.py gromacs-4.5.5_cryoFIT.zip
+For example, python /Users/doonam/bin/phenix-dev-2906/modules/cryoFIT/steps/0_install_cryoFIT/install_cryoFIT.py ~/gromacs-4.5.5_cryoFIT.zip
 
 History
 11/29/2017: transition from cryo_fit to cryoFIT
