@@ -2,15 +2,14 @@
 
 For installation, please see How_to_install folder (install phenix, link cryoFIT, and install cryoFIT).
 
-OS with confirmed installation success:
+<OS with confirmed installation success>
 
-Ubuntu (version 14.04 LTS)
-Ubuntu (version 16.04)
-MacOS (version 10.11.6)
-CentOS (version 7.0)
+Ubuntu: version 14.04 LTS, version 16.04
+MacOS: version 10.11.6
+CentOS: version 7.0
 
-OS with	confirmed installation failure:
-MacOS (version 10.12.6)
+<OS with confirmed installation failure>
+MacOS: version 10.12.6
 
 
 History
