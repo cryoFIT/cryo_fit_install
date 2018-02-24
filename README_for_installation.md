@@ -7,6 +7,10 @@ Ubuntu: version 14.04 LTS, version 16.04
 MacOS: version 10.11.6, 10.12.6
 CentOS: version 7.0
 
+<About Linux>
+Ubuntu is more recommended than Centos.
+Centos doesn't work for GUI, it doesn't show CC values as well.
+
 <History>
 02/16/2018: confirmed to run well at Ubuntu (version 14.04 LTS).
 11/29/2017: transition from cryo_fit to cryoFIT
