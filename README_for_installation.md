@@ -12,6 +12,7 @@ Ubuntu is more recommended than Centos.
 Centos doesn't work for GUI, it doesn't show CC values as well.
 
 <History>
+05/15/2018: confirmed to install and run well at macOS, CentOS and Ubuntu
 03/2018: transition from cryoFIT to cryo_fit
 02/16/2018: confirmed to run well at Ubuntu (version 14.04 LTS).
 11/29/2017: transition from cryo_fit to cryoFIT
