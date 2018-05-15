@@ -11,6 +11,9 @@ CentOS: version 7.0
 Ubuntu is more recommended than Centos.
 Centos doesn't work for GUI, it doesn't show CC values as well.
 
+<Forcefield>
+- Forcefield (in .../gromacs-4.5.5_cryo_fit/share/gromacs/top/amber03.ff) is actually amber03_DDB_gdp_MIA_SEP.ff
+
 <History>
 05/15/2018: confirmed to install and run well at macOS, CentOS and Ubuntu
 03/2018: transition from cryoFIT to cryo_fit
