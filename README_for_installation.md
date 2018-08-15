@@ -2,9 +2,9 @@
 
 For installation, please see How_to_install folder (install phenix, link cryo_fit, and install cryo_fit).
 
-<OS with confirmed installation success>
+<OS with confirmed installation and runing success>
 Ubuntu: version 14.04 LTS, version 16.04
-MacOS: version 10.11.6, 10.12.6
+MacOS: version 10.13.5, 10.12.6, 10.11.6
 CentOS: version 7.0
 
 <About Linux>
